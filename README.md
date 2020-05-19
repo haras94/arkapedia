@@ -56,7 +56,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 
 ## Related Project (Backend)
 
-* [`Backend-Arkapedia`](https://github.com/ichvanul/arkapedia.server.git)
+* [`Backend-Arkapedia`](https://github.com/haras94/arkapedia.server)
 
 ## Contributors
 
